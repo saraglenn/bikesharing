@@ -13,3 +13,11 @@ Tableau Public was used to create visualizations to show:
 The Citi Bike System Data was downloaded from https://citibikenyc.com/system-data
 
 Pandas was used to change the datatype of the tripduration oclum from an integer to a datetimes datatype, then exported as a csv. Tableau was then used to create the visualizations. 
+
+## Analysis
+
+The data was manipulated in Jupyter Notebook to create a converted bikesharing dataframe. 
+
+"C:\Users\scath\bikesharing\Images\bikesharing_df.png"
+
+
