@@ -33,17 +33,17 @@ Line graph displaying the number of bikes that are checked out by duration for e
  ![Checkout_Times_by_Gender](https://github.com/saraglenn/bikesharing/assets/119461431/2ba3b8e6-9261-43aa-bf41-209ce89eb40f)
 
 
-Heatmap is created showing the number of bike trips for each hour of each day of the week. Peak usage is observed during weekdays, specifically during the morning rush hour between 8:00am - 9:00am and the evening rush hour between 5:00pm - 6:00pm. On weekends, usage patterns differ, with higher activity on Saturdays and Sundays between 10:00am - 5:00pm. The heat map indicates that overall usage is more consistent throughout the day on weekends, whereas weekdays show concentrated usage during typical work commuting hours.
+Heatmap is created showing the number of bike trips for each hour of each day of the week. Peak usage is observed during weekdays, specifically during the morning rush hour between 8:00am - 9:00am and the evening rush hour between 5:00pm and 6:00pm. On weekends, usage patterns differ, with higher activity on Saturdays and Sundays between 11:00am and 4:00pm. The heat map indicates that overall usage is more consistent throughout the day on weekends, whereas weekdays show concentrated usage during typical work commuting hours.
 
 ![Trips_by_Weekday_PerHour](https://github.com/saraglenn/bikesharing/assets/119461431/555c9794-00a8-4956-bb24-320b57ffa18d)
 
 
-Heatmap is created showing the number of bike trips by gender for each hour of each day of the week. The usage patterns and days of activity among different genders align with those observed in the overall rider population, as shown in the previous visualization. While male riders outnumber female riders in general, resulting in higher overall usage, the distribution of usage across days and times remains consistent across genders.
+Heatmap is created showing the number of bike trips by gender for each hour of each day of the week. The usage patterns and days of activity among different genders align with those observed in the overall rider population. While male riders outnumber female riders in general, resulting in higher overall usage, the distribution of usage across days and times remains consistent across genders.
 
 ![Trips_By_Gender](https://github.com/saraglenn/bikesharing/assets/119461431/5045184f-6c3f-41e3-80be-265d3042b456)
 
 
-A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week. Comparing customer usage to subscribers, it is evident that customers exhibit higher activity on weekends, suggesting that they are more likely tourists or individuals who use the service for leisure and sight-seeing purposes. On the other hand, subscribers display heavier usage throughout the week. When considering the weekday and hours visualizations, this pattern can be attributed to subscribers utilizing bikes for their work commutes.
+A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week. Comparing customer usage to subscribers, it is evident that customers exhibit higher activity on weekends, suggesting that they are more likely tourists. On the other hand, subscribers display heavier usage throughout the week. When considering the weekday and hours visualizations, this pattern could be attributed to subscribers utilizing bikes for their work commutes.
 
 
 ![User_Trips_by_Gender](https://github.com/saraglenn/bikesharing/assets/119461431/747770f9-e874-4909-90c5-2a2f1c0223da)
