@@ -18,6 +18,7 @@ Pandas was used to change the datatype of the tripduration oclum from an integer
 
 The data was manipulated in Jupyter Notebook to create a converted bikesharing dataframe. 
 
-"C:\Users\scath\bikesharing\Images\bikesharing_df.png"
+![bikesharing_df](https://github.com/saraglenn/bikesharing/assets/119461431/2d539a7a-1b8b-4b44-b142-ddcb5cc8f9a9)
+
 
 
