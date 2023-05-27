@@ -48,3 +48,7 @@ A heatmap is created showing the number of bike trips for each type of user and 
 
 ![User_Trips_by_Gender](https://github.com/saraglenn/bikesharing/assets/119461431/747770f9-e874-4909-90c5-2a2f1c0223da)
 
+## Analysis
+
+The analysis reveals that there is a higher proportion of male users compared to females in the bike sharing service. Customers show a preference for weekends, with consistent usage observed between 11:00am and 6:00pm on both Saturdays and Sundays. In contrast, subscribers predominantly utilize the service on weekdays, particularly during typical work commuting hours of 8:00 and 9:00am and 5:00 and 6:00pm.
+
