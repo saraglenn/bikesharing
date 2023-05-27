@@ -14,7 +14,7 @@ The Citi Bike System Data was downloaded from https://citibikenyc.com/system-dat
 
 Pandas was used to change the datatype of the tripduration oclum from an integer to a datetimes datatype, then exported as a csv. Tableau was then used to create the visualizations. 
 
-## Analysis
+## Conversion and DataFrame Creation
 
 The data was manipulated in Jupyter Notebook to create a converted bikesharing dataframe. 
 
